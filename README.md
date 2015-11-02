@@ -4,7 +4,7 @@ Simple Python script that retrieves Dell ecommerce site product records for Moni
 China, Canada, Malaysia, Singapore and Thailand and outputs a csv file with some of the 
 monitor data.
 
-Dell ecommerce site: http://accessories.dell.com (http://accessories.dell.com/sna/default.aspx)
+Dell ecommerce site: [http://accessories.dell.com] (http://accessories.dell.com/sna/default.aspx)
 
 Monitor data output columns: date,country,page,orig_desc,desc,prod_name,size,model,delivery,price,url
 
