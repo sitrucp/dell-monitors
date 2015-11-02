@@ -8,6 +8,10 @@ Dell ecommerce site: [http://accessories.dell.com] (http://accessories.dell.com/
 
 Monitor data output columns: date,country,page,orig_desc,desc,prod_name,size,model,delivery,price,url
 
-As of 2015-11-02 the data is not perfectly clean nor are all columns populated though they could be 
-with a bit more data scrubbing.
+The script was run 2015-11-02  and the output is in the output-2015-11-02.csv file. The data is 
+not perfectly clean nor are all columns populated though they could be  with a bit more data scrubbing.
+
+More detailed description of this is at:
+
+[http://itisbiz.com/dell-monitor-website-scraping] (http://itisbiz.com/dell-monitor-website-scraping)
 
