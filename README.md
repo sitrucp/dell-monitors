@@ -13,5 +13,5 @@ not perfectly clean nor are all columns populated though they could be  with a b
 
 More detailed description of this is at:
 
-[http://itisbiz.com/dell-monitor-website-scraping] (http://itisbiz.com/dell-monitor-website-scraping)
+[http://009co.com/?p=253] (http://009co.com/?p=253)
 
